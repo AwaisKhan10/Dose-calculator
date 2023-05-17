@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287927720384",
+    "project_id": "dose-calculator-faeb1",
+    "storage_bucket": "dose-calculator-faeb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287927720384:android:c02bcf8302b24913151025",
+        "android_client_info": {
+          "package_name": "com.example.dose_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287927720384-j0gq4qhn49q8rmkd0jk98irg8i2aq6ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeKToxdkGH9ozwjPorjBjTFgqnTOYuYAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287927720384-j0gq4qhn49q8rmkd0jk98irg8i2aq6ua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
